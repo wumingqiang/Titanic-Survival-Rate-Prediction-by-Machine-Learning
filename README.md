@@ -21,3 +21,6 @@
 ### data.csv
 
 特征工程处理后的数据
+
+##
+分别运行 titanic.py 和 train.py 即可运行
